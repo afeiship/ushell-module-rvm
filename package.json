@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-rvm",
+  "version": "0.0.1",
+  "description": "Rvm for unix shell module.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-rvm.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-rvm"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-rvm/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-rvm"
+}
