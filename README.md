@@ -3,5 +3,6 @@
 
 ## resources:
 + https://rvm.io/
++ https://ruby-china.org/wiki/rvm-guide
 
 ## commands:
