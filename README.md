@@ -1,8 +1,7 @@
 # ushell-module-rvm
 > Rvm for unix shell module.
 
-## resources:
+## resources
 + https://rvm.io/
 + https://ruby-china.org/wiki/rvm-guide
-
-## commands:
++ https://stackoverflow.com/questions/3950260/how-to-uninstall-rvm
